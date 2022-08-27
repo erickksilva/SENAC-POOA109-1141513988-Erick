@@ -42,33 +42,4 @@ public class Produto {
 
 }
 
-//    private String nome;
-//    private int codigo;
-//    private double preco;
-//
-//    public Produto() {
-//
-//    }
-//
-//    public Produto(int c, String n, double p) {
-//        this.codigo = c;
-//        this.nome = n;
-//        this.preco = p;
-//    }
-//
-//    String getNomeProduto() {
-//        return this.nome;
-//    }
-//
-//    int getCodProduto() {
-//        return this.codigo;
-//    }
-//
-//    double getPreco() {
-//        return this.preco;
-//    }
-//
-//    public String toString() {
-//        return "Codigo produto: " + codigo + "\nNome produto: " + nome + "\nPreco: " + preco;
-//    }
 
